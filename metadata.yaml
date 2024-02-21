@@ -7,6 +7,9 @@ contributor:
     deathdate: 1932
     gutenberg_agent_id: '4569'
     url: http://www.gutenberg.org/2009/agents/4569
+covers:
+- cover_type: archival
+  image_path: 72917-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Mary Imlay
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '48463'
     url: http://www.gutenberg.org/2009/agents/48463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72917#The-reaping
 gutenberg_issued: '2024-02-10'
 gutenberg_type: Text
 identifiers:
